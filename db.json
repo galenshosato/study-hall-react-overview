@@ -35,6 +35,12 @@
       "name": "Henry J. Waternoose III",
       "image": "https://static.wikia.nocookie.net/villains/images/c/c4/Mr_Waternoose.png",
       "isGood": false
+    },
+    {
+      "name": "Sid",
+      "image": "aslifs;lidfj;lsi",
+      "isGood": true,
+      "id": 7
     }
   ]
 }
